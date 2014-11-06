@@ -1,0 +1,14 @@
+{
+  "name": "word-generator-sketching",
+  "version": "0.0.0",
+  "description": "Random dicking around with ideas for novel word/phoneme-string generation based on existing languages.",
+  "keywords": [
+    "random-generator",
+    "conlang",
+    "word"
+  ],
+  "license": "WTFPL",
+  "dependencies": {
+    "minimist": "^1.1.0"
+  }
+}

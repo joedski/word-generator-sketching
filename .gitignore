@@ -1,0 +1,4 @@
+corpus-texts
+node_modules
+bower_components
+*.log
