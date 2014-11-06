@@ -16,4 +16,4 @@ Currently depends on:
 Legal
 -----
 
-Code is released under the WTFPL.  Yes, you can even claim the code as your own if you wish.  That would be rude, but you could do it.  The only restriction is that you must change the name.  To, like, Not Word Generator Sketching, or Word Generator Sketcheringering.  Or something else different.
+Code is released under the WTFPL.  Yes, you can even claim the code as your own if you wish.  That would be rude, but you could do it.  The only restriction is that you must change the name.  To, like, Not Word Generator Sketching, or Word Generator Sketcheringering.  Or something else different.  Although, if you fork it on Github, having your name tacked on before this thing's name is probably sufficient.
